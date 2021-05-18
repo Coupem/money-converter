@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dd68361096924d2ba4649ff20ca6f90",
+    "revision": "8cd4d6505f6d6af0fef941a47a4b29d1",
     "url": "/money-converter/index.html"
   },
   {
-    "revision": "7ea7ff0d84471a865edf",
+    "revision": "f205cf711d9b3d13a561",
     "url": "/money-converter/static/css/2.b1176216.chunk.css"
   },
   {
-    "revision": "7ea7ff0d84471a865edf",
-    "url": "/money-converter/static/js/2.514f51f2.chunk.js"
+    "revision": "f205cf711d9b3d13a561",
+    "url": "/money-converter/static/js/2.35f17529.chunk.js"
   },
   {
     "revision": "465376c0c4b9728ff624339d576d7e27",
-    "url": "/money-converter/static/js/2.514f51f2.chunk.js.LICENSE.txt"
+    "url": "/money-converter/static/js/2.35f17529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4248577f60d72a76149",
-    "url": "/money-converter/static/js/main.4648d665.chunk.js"
+    "revision": "4ae06ef22bc3f865251e",
+    "url": "/money-converter/static/js/main.0fd73e2f.chunk.js"
   },
   {
     "revision": "c2b4755e3d4bc36905b1",
