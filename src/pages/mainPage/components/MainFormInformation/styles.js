@@ -2,18 +2,13 @@ import { makeStyles } from '@material-ui/core';
 
 export const useStyles = makeStyles((theme) => ({
   mainContainerInfo: {
-    maxWidth: 1400,
+    maxWidth: 1000,
     height: '100%',
     margin: 'auto',
     paddingTop: theme.spacing(3),
     borderRadius: 5,
-    boxShadow: '0 0 10px 1px rgba(0,0,0,0.5)',
+    boxShadow: '0px 6px 16px -5px rgb(0 0 0 / 70%)',
     marginBottom: theme.spacing(10),
-  },
-  defaultText: {
-    display: 'flex',
-    justifyContent: 'center',
-    paddingBottom: theme.spacing(2.5),
-    fontSize: 25,
+    backgroundColor: '#ffffff',
   },
 }));

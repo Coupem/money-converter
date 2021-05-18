@@ -6,9 +6,10 @@ import PropTypes from 'prop-types';
 export const useStyles = makeStyles((theme) => ({
   title: {
     fontSize: 30,
+    color: '#295429',
   },
   wrapperContainerInput: {
-    width: 1000,
+    maxWidth: 900,
     margin: 'auto',
     padding: theme.spacing(5, 0, 10),
     display: 'flex',
@@ -20,7 +21,7 @@ export const useStyles = makeStyles((theme) => ({
   },
   inputValue: {},
   propsContainer: {
-    boxShadow: '0 0 5px 1px rgba(0,0,0,0.5)',
+    boxShadow: '0px 0 6px -1px rgb(0 0 0 / 40%)',
     borderRadius: 5,
   },
   responseField: {

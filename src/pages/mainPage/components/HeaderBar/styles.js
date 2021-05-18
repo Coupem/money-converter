@@ -9,16 +9,20 @@ export const useStyles = makeStyles((theme) => ({
     display: 'flex',
     justifyContent: 'center',
     marginBottom: theme.spacing(2),
+    backgroundColor: '#f9fff9',
   },
   button: {
     '&:focus': {
-      backgroundColor: '#ccc',
+      backgroundColor: '#407940',
+    },
+    '&:hover': {
+      backgroundColor: '#335f33',
     },
     fontSize: 'max(1.1vw, 15px)',
     padding: theme.spacing(1),
     width: '12em',
     borderRadius: 5,
-    backgroundColor: 'grey',
-    color: '#222222',
+    backgroundColor: '#407940',
+    color: '#ffffff',
   },
 }));

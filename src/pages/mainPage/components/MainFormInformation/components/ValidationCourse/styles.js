@@ -8,6 +8,7 @@ export const useStyles = makeStyles((theme) => ({
   titleTextCourse: {
     fontSize: 30,
     marginBottom: theme.spacing(5),
+    color: '#295429',
   },
   wrapperCourseContainer: {
     display: 'flex',

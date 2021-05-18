@@ -12,14 +12,14 @@ function HeaderBar() {
       <div className={classes.buttonGroup}>
         <ButtonGroup disableElevation variant="contained">
           <Button
-            href="/converter"
+            href="#/"
             startIcon={<TrendingUpIcon />}
             className={classes.button}
           >
             Конвертер
           </Button>
           <Button
-            href="/course"
+            href="#/course"
             endIcon={<TrackChangesIcon />}
             className={classes.button}
           >
